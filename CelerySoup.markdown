@@ -1,5 +1,4 @@
-
-
+# Celery Soup
 ## Ingredients
 
 - 2 large onions (weight 280g)
